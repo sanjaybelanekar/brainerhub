@@ -1,2 +1,2 @@
-# brainerhub
+# brainerhub-client
 brainerhub assignment/task 
